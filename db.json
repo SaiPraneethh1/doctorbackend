@@ -1,0 +1,91 @@
+{
+  "doctors": [
+    {
+      "name": "praneethh",
+      "salary": "400",
+      "gender": "male",
+      "age": "21",
+      "specialization": "Dentist",
+      "id": 1
+    },
+    {
+      "name": "Venky",
+      "salary": "40k",
+      "gender": "male",
+      "age": "23",
+      "specialization": "Cardiologists",
+      "id": 2
+    },
+    {
+      "name": "Bunny",
+      "salary": "60k",
+      "gender": "male",
+      "age": "22",
+      "specialization": "Gynecologist",
+      "id": 3
+    },
+    {
+      "name": "Sundar",
+      "salary": "80k",
+      "gender": "male",
+      "age": "24",
+      "specialization": "Pulmonologist",
+      "id": 4
+    },
+    {
+      "name": "Vihari",
+      "salary": "30k",
+      "gender": "male",
+      "age": "33",
+      "specialization": "Car",
+      "id": 5
+    }
+  ],
+  "patients": [
+    {
+      "name": "sai",
+      "weight": "89",
+      "gender": "male",
+      "age": "34",
+      "disease": "fever",
+      "doctor": "praneethh",
+      "id": 1
+    },
+    {
+      "name": "raju",
+      "weight": "45",
+      "gender": "male",
+      "age": "66",
+      "disease": "cancer",
+      "doctor": "Sundar",
+      "id": 2
+    },
+    {
+      "name": "rani",
+      "weight": "33",
+      "gender": "female",
+      "age": "40",
+      "disease": " fibroids ",
+      "doctor": "Bunny",
+      "id": 3
+    },
+    {
+      "name": "john",
+      "weight": "55",
+      "gender": "male",
+      "age": "23",
+      "disease": "arrhythmia",
+      "doctor": "Venky",
+      "id": 4
+    },
+    {
+      "name": "ramu",
+      "weight": "48",
+      "gender": "male",
+      "age": "67",
+      "disease": "toothack",
+      "doctor": "praneethh",
+      "id": 5
+    }
+  ]
+}
